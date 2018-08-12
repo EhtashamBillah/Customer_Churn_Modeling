@@ -1,6 +1,5 @@
 
-#-------------part 10 remaining part : XGBOOST-----------
-#IT IS ONE OF THE MOST POPULAR ALGORITHM IF WE WORK WITH LARGE DATASET..ITS FAST AND HIGH PERFORMING ALGORITHM
+
 
 # Importing the dataset
 dataset <- read.csv('Churn_Modelling.csv')
